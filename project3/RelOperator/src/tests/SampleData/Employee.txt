@@ -1,0 +1,6 @@
+EmpId, Name, Age, Salary, DeptID
+1, Nick, 25, 900, 1
+7, Josef, 32, 7000, 1
+5, John, 40, 15000, 5
+2, Abhilash, 40, 500, 5
+3, Riya, 40, 500, 3
